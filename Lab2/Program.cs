@@ -1,5 +1,16 @@
-﻿Console.WriteLine("Part1: Operator Practice");
 
+
+C# Introduction Program
+Code 
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+Console.WriteLine("Part1: Operator Practice");
+        
 int a = 10;
 int b = 5;
 int c = 15;
@@ -102,3 +113,4 @@ switch (dayNumber)
 
 Console.WriteLine("Thank you! end of Lab 2 - Avi Zarbavel 7/14/2025")
 }
+    }
