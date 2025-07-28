@@ -39,7 +39,7 @@ class Car
     public string color;
     public int year;
 
-    // Example method to display car details.
+    //  car details.
     public void Display()
     {
         Console.WriteLine("Car Details:");
@@ -47,19 +47,19 @@ class Car
         Console.WriteLine("Color: " + color);
         Console.WriteLine("Year: " + year);
     }
-    // Problem 1: Add a Method with No Parameters
+    // Problem 1:Method with No Parameters
     public void Start()
     {
         Console.WriteLine("The car is starting.");
     }
 
-    // Problem 2: Add a Method with Parameters
+    // Problem 2:Method with Parameters
     public void Drive(int miles)
     {
         Console.WriteLine("The car drove " + miles + " miles.");
     }
 
-    // Problem 3: Add a Method with a Return Value
+    // Problem 3:Method with a Return Value
     public string GetDescription()
     {
         return $"{year} {color} {model}";
