@@ -17,7 +17,7 @@ class Program
 
         // Problem 1: Call Start()
         myCar.Start();
-        Console.WriteLine("---");
+
 
         // Problem 2: Call Drive()
         myCar.Drive(55); // I hated how this sounded on the ran out put so I wrote it out differently above in a console writeline. - Hope thats OK
