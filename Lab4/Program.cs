@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Car object and assigning values
+        //Car and assigning values
         Car myCar = new Car();
         myCar.model = "Civic";
         myCar.color = "Black - MS";
