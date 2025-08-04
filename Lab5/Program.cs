@@ -13,7 +13,7 @@ internal class Program
         }
     }
 
-    // Step 2 – Derived Class- Cat
+    // Step 2 – Derived - Cat
     public class Cat : Animal
     {
 
@@ -23,7 +23,7 @@ internal class Program
         }
     }
 
-    // Step 2 – Derived Class- Dog
+    // Step 2 – Derived - Dog
     public class Dog : Animal
     {
 
@@ -50,4 +50,5 @@ internal class Program
         }
     }
 }
+
 
